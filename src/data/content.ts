@@ -257,7 +257,7 @@ export const wildlife: Wildlife[] = [
     description:
       "Millions of pink flamingos paint Tanzania's soda lakes in breathtaking color. Lake Natron is the world's most important breeding site for lesser flamingos.",
     image:
-      "https://images.unsplash.com/photo-1559827260-dc66d52bef19?w=800&q=80",
+      "https://images.unsplash.com/photo-1552728089-57bdde30beb3?w=800&q=80",
     imageAlt: "Flock of flamingos at a Tanzanian lake",
     conservation: "Near Threatened — Lake Natron protected",
   },
