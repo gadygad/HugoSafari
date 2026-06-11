@@ -84,7 +84,7 @@ export const destinations: Destination[] = [
       "Guided archaeological tours",
     ],
     image:
-      "https://images.unsplash.com/photo-1506905925346-21bda4d32df4?w=1200&q=80",
+      "https://images.unsplash.com/photo-1506905925346-21bda4d32df4?w=2400&q=100",
     imageAlt: "Dramatic gorge landscape at Olduvai, Tanzania",
     coordinates: "2°59′S 35°21′E",
     bestTime: "June – October",
@@ -104,7 +104,7 @@ export const destinations: Destination[] = [
       "Maasai coexistence zone",
     ],
     image:
-      "https://images.unsplash.com/photo-1516426122076-c23e76319801?w=1200&q=80",
+      "https://images.unsplash.com/photo-1516426122076-c23e76319801?w=2400&q=100",
     imageAlt: "Ngorongoro Crater panoramic view with wildlife",
     coordinates: "3°10′S 35°35′E",
     bestTime: "Year-round (dry: Jun–Oct)",
@@ -124,7 +124,7 @@ export const destinations: Destination[] = [
       "Kopjes & acacia woodlands",
     ],
     image:
-      "https://images.unsplash.com/photo-1549366021-9f761d040615?w=1200&q=80",
+      "https://images.unsplash.com/photo-1549366021-9f761d040615?w=2400&q=100",
     imageAlt: "Serengeti plains with acacia trees at golden hour",
     coordinates: "2°20′S 34°34′E",
     bestTime: "Jan–Feb (calving), Jul–Oct (crossings)",
@@ -144,7 +144,7 @@ export const destinations: Destination[] = [
       "Jozani Forest red colobus",
     ],
     image:
-      "https://images.unsplash.com/photo-1544551763-46a013bb70d5?w=1200&q=80",
+      "https://images.unsplash.com/photo-1544551763-46a013bb70d5?w=2400&q=100",
     imageAlt: "Turquoise waters and dhow boats off Zanzibar coast",
     coordinates: "6°10′S 39°12′E",
     bestTime: "June – October",
@@ -160,7 +160,7 @@ export const zanzibarExperiences: ZanzibarExperience[] = [
     description:
       "As the sun sets over the Indian Ocean, Forodhani Gardens transforms into Zanzibar's most vibrant night market. Sizzling Zanzibari pizzas, fresh seafood skewers, sugar cane juice, and the famous urojo soup draw locals and travelers alike.",
     image:
-      "https://images.unsplash.com/photo-1559827260-dc66d52bef19?w=800&q=80",
+      "https://images.unsplash.com/photo-1559827260-dc66d52bef19?w=1600&q=100",
     imageAlt: "Forodhani night market with food stalls and ocean backdrop",
     activity: "Night market & street food",
   },
@@ -171,7 +171,7 @@ export const zanzibarExperiences: ZanzibarExperience[] = [
     description:
       "Feel the adrenaline as local fishermen and adventurous travelers leap from traditional dhow boats into crystal-clear waters. This iconic Zanzibar experience combines Swahili maritime culture with pure island joy.",
     image:
-      "https://images.unsplash.com/photo-1507525428034-b723cf961d3e?w=800&q=80",
+      "https://images.unsplash.com/photo-1507525428034-b723cf961d3e?w=1600&q=100",
     imageAlt: "People jumping from boats into turquoise Zanzibar waters",
     activity: "Boat jumping & swimming",
   },
@@ -182,7 +182,7 @@ export const zanzibarExperiences: ZanzibarExperience[] = [
     description:
       "Glide across the harbor on a hand-crafted dhow as the sky blazes orange and pink. Watch fishermen cast nets, hear the call to prayer echo from minarets, and sip fresh coconut water as day turns to night.",
     image:
-      "https://images.unsplash.com/photo-1505142468610-359e7d316be0?w=800&q=80",
+      "https://images.unsplash.com/photo-1505142468610-359e7d316be0?w=1600&q=100",
     imageAlt: "Traditional dhow sailing at sunset in Zanzibar",
     activity: "Sunset sailing",
   },
@@ -197,7 +197,7 @@ export const wildlife: Wildlife[] = [
     description:
       "The king of the savanna rules Tanzania's plains in prides of up to 30. Serengeti alone hosts 3,000 lions — among the largest populations in Africa.",
     image:
-      "https://images.unsplash.com/photo-1546182990-d095f2be28d7?w=800&q=80",
+      "https://images.unsplash.com/photo-1546182990-d095f2be28d7?w=1600&q=100",
     imageAlt: "Majestic African lion on the Serengeti plains",
     conservation: "Vulnerable — protected in all national parks",
   },
@@ -209,7 +209,7 @@ export const wildlife: Wildlife[] = [
     description:
       "Over 200,000 zebras join the Great Migration, their striped herds creating one of nature's most iconic spectacles across the endless Serengeti horizon.",
     image:
-      "https://images.unsplash.com/photo-1526336024174-e58f5cdd8e13?w=800&q=80",
+      "https://images.unsplash.com/photo-1526336024174-e58f5cdd8e13?w=1600&q=100",
     imageAlt: "Zebra herd grazing on the African savanna",
     conservation: "Near Threatened — stable in Tanzania",
   },
@@ -221,7 +221,7 @@ export const wildlife: Wildlife[] = [
     description:
       "Misunderstood masters of the night — spotted hyenas are skilled hunters with complex social structures. Their haunting whoops echo across the crater at dusk.",
     image:
-      "https://images.unsplash.com/photo-1564349683136-77e08db1bdb3?w=800&q=80",
+      "https://images.unsplash.com/photo-1564349683136-77e08db1bdb3?w=1600&q=100",
     imageAlt: "Spotted hyena in the African wilderness",
     conservation: "Least Concern — thriving in protected areas",
   },
@@ -233,7 +233,7 @@ export const wildlife: Wildlife[] = [
     description:
       "Tanzania shelters Africa's largest elephant population. Tarangire alone hosts 3,000 elephants, drawn to ancient baobab forests and the life-giving Tarangire River.",
     image:
-      "https://images.unsplash.com/photo-1557050543-4d6f4e0710de?w=800&q=80",
+      "https://images.unsplash.com/photo-1557050543-4d6f4e0710de?w=1600&q=100",
     imageAlt: "African elephant family walking through savanna",
     conservation: "Endangered — strict anti-poaching measures",
   },
@@ -245,7 +245,7 @@ export const wildlife: Wildlife[] = [
     description:
       "The Serengeti is one of the best places on Earth to witness a cheetah's 110 km/h sprint. These elegant cats hunt by day on the open plains.",
     image:
-      "https://images.unsplash.com/photo-1456929177925-aa0868a8f108?w=800&q=80",
+      "https://images.unsplash.com/photo-1456929177925-aa0868a8f108?w=1600&q=100",
     imageAlt: "Cheetah scanning the Serengeti horizon",
     conservation: "Vulnerable — Serengeti Cheetah Project active",
   },
@@ -257,7 +257,7 @@ export const wildlife: Wildlife[] = [
     description:
       "Millions of pink flamingos paint Tanzania's soda lakes in breathtaking color. Lake Natron is the world's most important breeding site for lesser flamingos.",
     image:
-      "https://images.unsplash.com/photo-1552728089-57bdde30beb3?w=800&q=80",
+      "https://images.unsplash.com/photo-1552728089-57bdde30beb3?w=1600&q=100",
     imageAlt: "Flock of flamingos at a Tanzanian lake",
     conservation: "Near Threatened — Lake Natron protected",
   },

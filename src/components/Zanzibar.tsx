@@ -69,11 +69,12 @@ export default function Zanzibar() {
           >
             <div className="relative aspect-[4/5] overflow-hidden rounded-3xl shadow-2xl">
               <Image
-                src="https://images.unsplash.com/photo-1544551763-46a013bb70d5?w=800&q=80"
+                src="https://images.unsplash.com/photo-1544551763-46a013bb70d5?w=2400&q=100"
                 alt="Zanzibar coastline with dhow boats"
                 fill
                 className="object-cover"
                 sizes="(max-width: 1024px) 100vw, 50vw"
+                quality={100}
               />
             </div>
             <motion.div
@@ -83,11 +84,12 @@ export default function Zanzibar() {
             >
               <div className="relative h-40 w-56">
                 <Image
-                  src="https://images.unsplash.com/photo-1507525428034-b723cf961d3e?w=400&q=80"
+                  src="https://images.unsplash.com/photo-1507525428034-b723cf961d3e?w=1600&q=100"
                   alt="People jumping into Zanzibar waters"
                   fill
                   className="object-cover"
                   sizes="224px"
+                  quality={100}
                 />
               </div>
               <p className="bg-safari-ocean px-3 py-2 text-center text-xs font-semibold text-white">
@@ -116,6 +118,7 @@ export default function Zanzibar() {
                     fill
                     className="object-cover"
                     sizes="(max-width: 768px) 100vw, 33vw"
+                    quality={100}
                   />
                   <div className="absolute inset-0 bg-safari-ocean/20" />
                 </div>

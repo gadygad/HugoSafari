@@ -13,7 +13,7 @@ export default function Wildlife() {
           className="h-full w-full bg-cover bg-center"
           style={{
             backgroundImage:
-              "url('https://images.unsplash.com/photo-1549366021-9f761d040615?w=1920&q=80')",
+              "url('https://images.unsplash.com/photo-1549366021-9f761d040615?w=3840&q=100')",
           }}
         />
       </div>
@@ -54,6 +54,7 @@ export default function Wildlife() {
                   fill
                   className="object-cover transition duration-700 group-hover:scale-105"
                   sizes="(max-width: 640px) 100vw, 33vw"
+                  quality={100}
                 />
                 <div className="absolute inset-0 bg-gradient-to-t from-safari-earth via-safari-earth/20 to-transparent" />
                 <div className="absolute bottom-4 left-4 right-4">

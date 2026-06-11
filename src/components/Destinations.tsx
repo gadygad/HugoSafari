@@ -71,6 +71,7 @@ export default function Destinations() {
                 className="object-cover"
                 sizes="(max-width: 1024px) 100vw, 50vw"
                 priority
+                quality={100}
               />
               <div className="absolute inset-0 bg-gradient-to-t from-black/60 via-transparent to-transparent" />
               <span
@@ -141,6 +142,7 @@ export default function Destinations() {
                   fill
                   className="object-cover transition duration-500 group-hover:scale-110"
                   sizes="(max-width: 640px) 100vw, 25vw"
+                  quality={100}
                 />
               </div>
               <div className="p-4">
