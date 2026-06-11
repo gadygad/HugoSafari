@@ -13,7 +13,7 @@ export default function Wildlife() {
           className="h-full w-full bg-cover bg-center"
           style={{
             backgroundImage:
-              "url('https://images.unsplash.com/photo-1549366021-9f761d040615?w=3840&q=100')",
+              "url('https://images.unsplash.com/photo-1516026672322-bc52d61a55d5?w=3840&q=100')",
           }}
         />
       </div>

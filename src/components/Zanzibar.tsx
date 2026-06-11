@@ -69,7 +69,7 @@ export default function Zanzibar() {
           >
             <div className="relative aspect-[4/5] overflow-hidden rounded-3xl shadow-2xl">
               <Image
-                src="https://images.unsplash.com/photo-1544551763-46a013bb70d5?w=2400&q=100"
+                src="https://images.unsplash.com/photo-1578662996442-48f60103fc96?w=2400&q=100"
                 alt="Zanzibar coastline with dhow boats"
                 fill
                 className="object-cover"
@@ -84,7 +84,7 @@ export default function Zanzibar() {
             >
               <div className="relative h-40 w-56">
                 <Image
-                  src="https://images.unsplash.com/photo-1507525428034-b723cf961d3e?w=1600&q=100"
+                  src="https://images.unsplash.com/photo-1586861710029-4ff29498cc3c?w=1600&q=100"
                   alt="People jumping into Zanzibar waters"
                   fill
                   className="object-cover"
