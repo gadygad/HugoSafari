@@ -44,8 +44,8 @@ export const siteConfig = {
   tagline: "Discover the Soul of Tanzania",
   description:
     "Experience world-class safaris, ancient heritage, and pristine coastlines. HugoSafari brings Tanzania's wonders to travelers across the globe.",
-  email: "hello@hugosafari.com",
-  phone: "+255 754 000 000",
+  email: "kilingepazasauti@gmail.com",
+  phone: "+255 650 557 424",
   location: "Arusha & Zanzibar, Tanzania",
 };
 
